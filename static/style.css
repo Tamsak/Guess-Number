@@ -1,0 +1,32 @@
+#head{
+    display:block;
+    width:500px;
+    text-align: center;
+}
+.red{
+    background-color:red;
+    width: 200px;
+    height:200px;
+    display: block;
+    text-align: center;
+    margin-left:150px;
+}
+
+.green{
+    background-color:green;
+    width: 200px;
+    height:200px;
+    display: block;
+    text-align: center;
+    margin-left:150px;
+    
+}
+h2{
+    color:white;
+    padding-top:50px;
+}
+form{
+    text-align: center;
+    width:500px;
+    margin-top:20px;
+}
